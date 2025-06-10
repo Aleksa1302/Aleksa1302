@@ -20,9 +20,8 @@ I'm a senior full-stack developer with over 10 years of experience building clea
 
 💻 What I Do
 
-**Full-Stack Web & Mobile Development**
+**Full-Stack Web Development**
 - React, Next.js, Node.js, FastAPI, Python, PostgreSQL, MongoDB
-- React Native, Flutter, Swift, Kotlin, Java, Expo
 - Firebase, Vercel, Heroku, AWS
 
 **eCommerce Development**
